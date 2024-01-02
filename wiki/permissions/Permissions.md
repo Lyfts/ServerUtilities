@@ -1,7 +1,7 @@
 # Permissions
 
 ## Claims
-These permissions controls what players can/can't interact with in claimed chunks as how many chunks can be claimed.
+These permissions control what players can/can't interact with in claimed chunks as how many chunks can be claimed.
 
 | Permission node                                      | Description                                                                    | Player Default | OP Default | Available values |
 |------------------------------------------------------|--------------------------------------------------------------------------------|----------------|------------|------------------|
