@@ -16,11 +16,11 @@ These permissions control what players can/can't interact with in claimed chunks
 
 ## Chunkloading
 
-| Permission node                            | Description                                         | Player Default | OP Default | Available values |
-|--------------------------------------------|-----------------------------------------------------|----------------|------------|------------------|
-| `serverutilities.chunkloader.load_offline` | Keep loaded chunks working when player goes offline | true           | true       | true/false       |
-| `serverutilities.chunkloader.max_chunks`   | Max Loadable Chunks                                 | 50             | 64         | true/false       |
-| Content Cell                               | Content Cell                                        |                |            |                  |
+| Permission node                                | Description                                         | Player Default | OP Default | Available values |
+|------------------------------------------------|-----------------------------------------------------|----------------|------------|------------------|
+| ```serverutilities.chunkloader.load_offline``` | Keep loaded chunks working when player goes offline | true           | true       | true/false       |
+| `serverutilities.chunkloader.max_chunks`       | Max Loadable Chunks                                 | 50             | 64         | true/false       |
+| Content Cell                                   | Content Cell                                        |                |            |                  |
 
 | Permission node | Description  | Player Default | OP Default | Available values | |
 |-----------------|--------------|----------------|------------|------------------|-|
